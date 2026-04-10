@@ -1,0 +1,1 @@
+/Users/ben/Desktop/MusicPlaylist/musicplaylist.client/obj/Debug/musicplaylist.client.esproj.CoreCompileInputs.cache
